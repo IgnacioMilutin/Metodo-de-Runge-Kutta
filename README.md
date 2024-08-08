@@ -1,3 +1,3 @@
-#METODO DE RUNGE KUTTA
-##Proyecto Informatica Analisis Númerico
-ignacio milutin
+# METODO RUNGE KUTTA
+## Proyecto Informatico Analisis Númerico
+Ignacio Milutin
